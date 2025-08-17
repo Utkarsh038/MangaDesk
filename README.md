@@ -12,6 +12,9 @@ Preferred communication style: Simple, everyday language.
 
 ## System Architecture
 
+## Note : - Database Integration required for future  it is not done yet
+ 
+
 ### Frontend Architecture
 - **Framework**: React with TypeScript and Vite for development tooling
 - **UI Components**: shadcn/ui component library built on Radix UI primitives
